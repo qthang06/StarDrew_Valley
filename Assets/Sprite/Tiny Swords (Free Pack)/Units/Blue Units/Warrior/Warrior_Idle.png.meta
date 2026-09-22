@@ -137,12 +137,12 @@ TextureImporter:
       name: Warrior_Idle_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 54
-        width: 81
-        height: 91
+        x: 62
+        y: 60
+        width: 80
+        height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: Warrior_Idle_1
       rect:
         serializedVersion: 2
-        x: 253
-        y: 54
-        width: 81
-        height: 91
+        x: 254
+        y: 60
+        width: 79
+        height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: Warrior_Idle_2
       rect:
         serializedVersion: 2
-        x: 445
+        x: 443
         y: 54
-        width: 81
+        width: 85
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,11 +204,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 635
-        y: 54
-        width: 83
-        height: 88
+        y: 56
+        width: 87
+        height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,11 +226,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 826
-        y: 54
-        width: 85
-        height: 87
+        y: 55
+        width: 90
+        height: 86
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: Warrior_Idle_5
       rect:
         serializedVersion: 2
-        x: 1019
+        x: 1017
         y: 54
-        width: 85
-        height: 87
+        width: 89
+        height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Warrior_Idle_6
       rect:
         serializedVersion: 2
-        x: 1211
-        y: 54
-        width: 84
-        height: 89
+        x: 1210
+        y: 57
+        width: 86
+        height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,10 +293,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1404
         y: 54
-        width: 82
-        height: 90
+        width: 84
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 985a9827394b5ac4a91344a050cefdf0
     internalID: 0
     vertices: []
     indices: 
@@ -331,6 +331,7 @@ TextureImporter:
       Warrior_Idle_5: -1175184007495930954
       Warrior_Idle_6: -4675935811743254547
       Warrior_Idle_7: 1839488653993705794
+      Warrior_Idle_8: -1375963048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
