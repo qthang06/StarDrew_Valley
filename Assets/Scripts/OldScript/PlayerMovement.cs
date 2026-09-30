@@ -3,6 +3,7 @@ using UnityEngine;
 using static UnityEditor.Searcher.SearcherWindow.Alignment;
 public class PlayerMovement : MonoBehaviour
 {
+    public PlayerMovementState moveState;
     public float moveSpeed = 5f;
     private int isFacingRight = 1;
 
@@ -17,11 +18,6 @@ public class PlayerMovement : MonoBehaviour
         {
             Flip();
         }
-
-        anim.SetFloat("horizontal", Mathf.Abs(horizontal));
-        anim.SetFloat("vertical", Mathf.Abs(vertical));
-        //Debug.Log($"Horizontal: {horizontal}, Vertical: {vertical}");
-
         rb.linearVelocity = new Vector2(horizontal, vertical) * moveSpeed;
     }
 
