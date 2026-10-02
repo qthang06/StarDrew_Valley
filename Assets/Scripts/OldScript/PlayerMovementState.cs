@@ -12,7 +12,7 @@ public class PlayerMovementState : MonoBehaviour
     public MoveState currentMoveState { get; private set; }
     [SerializeField] private Animator anim;
     [SerializeField] private Rigidbody2D rb;
-    private const string idleAnim = "Idle_0";
+    private const string idleAnim = "Idle";
     private const string runAnim = "Run";
 
     public void SetMoveState(MoveState moveState)
